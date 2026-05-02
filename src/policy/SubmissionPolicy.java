@@ -1,5 +1,5 @@
 package policy;
 
-public interface PostPolicy {
+public interface SubmissionPolicy {
     boolean canSubmit();
 }
